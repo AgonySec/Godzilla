@@ -1,5 +1,7 @@
 # K_Godzilla  （The King Godzilla）
 
+​																									![](https://badgen.net/github/stars/AgonySec/K_Godzilla)![GitHub download counter](https://img.shields.io/github/downloads/AgonySec/K_Godzilla/total)
+
 ## Introduction
 
 I am analyzing and researching the webshell tool - [[Godzilla 4.0.1](https://github.com/BeichenDream/Godzilla)] source code, modified the traffic characteristics, and made some processing to bypass AV detection. This tool is only for personal learning, if there is any offense, please contact to delete it.
